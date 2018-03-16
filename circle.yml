@@ -5,7 +5,7 @@ deployment:
 
     commands:
 
-     - $HUB_TRIGGER
+      - $HUB_TRIGGER
 
 
 
