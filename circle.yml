@@ -1,16 +1,16 @@
 deployment:
-  dockerhub:
+ dockerhub:
 
-    branch: master
+  branch: master
 
-	commands:
+    commands:
 
-		- $HUB_TRIGGER
+     - $HUB_TRIGGER
 
 
 
 test:
   
-	override:    
+  override:    
     
-		- mocha
+    - mocha
