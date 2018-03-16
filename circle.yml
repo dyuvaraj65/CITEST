@@ -6,10 +6,7 @@ deployment:
     commands:
 
       - $HUB_TRIGGER
-
-
-
-test:
+test:
   
   override:    
     
