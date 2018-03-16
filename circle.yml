@@ -4,7 +4,6 @@ deployment:
   branch: master
 
     commands:
-
       - $HUB_TRIGGER
 test:
   
